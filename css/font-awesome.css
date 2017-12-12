@@ -246,6 +246,7 @@
 }
 .fa-home:before {
   content: "\f015";
+  color: black;
 }
 .fa-file-o:before {
   content: "\f016";
@@ -699,6 +700,7 @@
 .fa-group:before,
 .fa-users:before {
   content: "\f0c0";
+ color: black;
 }
 .fa-chain:before,
 .fa-link:before {
@@ -869,6 +871,7 @@
 }
 .fa-building-o:before {
   content: "\f0f7";
+  color: black;
 }
 .fa-hospital-o:before {
   content: "\f0f8";
@@ -1351,6 +1354,7 @@
 .fa-bank:before,
 .fa-university:before {
   content: "\f19c";
+  color: black;
 }
 .fa-mortar-board:before,
 .fa-graduation-cap:before {
