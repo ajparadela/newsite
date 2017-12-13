@@ -270,6 +270,7 @@ include "includes/navigation.php";
     </tr>
 </table>
 <hr width="80%">
+<img src="img/banner.png" width="100%">
 
 <?php
 include "includes/footer.php";

@@ -18,7 +18,7 @@ include "includes/navigation.php";
 </table>
     <br><br>
 
-
+<img src="img/banner.png" width="100%">
 <br><hr width="80%">
 
 
