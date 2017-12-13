@@ -21,9 +21,9 @@ include "includes/navigation.php";
         Have your property queries answered.<br><br>
         OFC Investment helps you make a smart investment by:<br><br>
 
-            •Providing professional strategic analysis<br>
-            •Establishing a personalized plan for you to accumulate properties over the next 10 years<br>
-            •Providing guiding to you from our experience in the foreign investment market</td>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Providing professional strategic analysis<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Establishing a personalized plan for you to accumulate properties over the next 10 years<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Providing guiding to you from our experience in the foreign investment market</td>
     </tr>
 </table>
 <br><hr width="80%">
@@ -51,8 +51,8 @@ include "includes/navigation.php";
 
         We refer financial consultants who are experienced and leaders in the industry. They will assist:<br><br>
 
-        •By keeping you fully updated throughout the process<br>
-        •Obtain a competitive rate for your mortgage</td>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•By keeping you fully updated throughout the process<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Obtain a competitive rate for your mortgage</td>
     </tr>
 </table>
 <br><hr width="100%">
@@ -81,13 +81,13 @@ include "includes/navigation.php";
         Qualified quantity surveyors will also be able to advise on how to claim the maximum depreciation deductions. We also work with a range of fully qualified quantity surveyors for depreciation schedules that can significantly reduce your taxable income.<br><br>
         The investment property expenses incurred are deductible for taxation purposes and here is a short summary of common items that you can claim as a deduction:<br><br>
 
-            •Interest on your investment property loan;<br>
-            •Property rates and land tax;<br>
-            •Body Corporate fees;<br>
-            •Landlord insurance premiums;<br>
-            •Property Management fees;<br>
-            •Sundry expenses e.g. bank charges and general property maintenance;<br>
-            •Depreciation;<br></td>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Interest on your investment property loan;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Property rates and land tax;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Body Corporate fees;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Landlord insurance premiums;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Property Management fees;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Sundry expenses e.g. bank charges and general property maintenance;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Depreciation;<br></td>
     </tr>
 </table>
 <br><hr width="100%">
@@ -100,14 +100,14 @@ include "includes/navigation.php";
         <td width="10%"></td>
         <td width="50%" style="padding-right: 25px">Let the specialist help out with all of the paperwork and submit it so that you can focus on other things.<br>
         The specialists we work with are dedicated to providing sociable, moral, honest and legitimate migration solutions and application processing facilities to our clients both here and overseas. As a Registered Migration Agent in Australia, they provide the latest expert guidance and individually tailored Migration & Visa solutions. The services included are:<br><br>
-
-            •Skilled Migration<br>
-            •Visit Visa<br>
-            •Work Visa<br>
-            •Family Migration<br>
-            •Student Visa<br>
-            •MRT Appeal<br>
-            •Business Visa</td>
+        
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Skilled Migration<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Visit Visa<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Work Visa<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Family Migration<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Student Visa<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•MRT Appeal<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Business Visa</td>
     </tr>
 </table>
 <br><hr width="80%">
