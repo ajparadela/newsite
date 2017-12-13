@@ -11,7 +11,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-						<a class="navbar-brand" href="index.php"><img src="img/picture1.png" height="145px" style="margin-top: -45px"></a>
+						<a class="navbar-brand" href="index.php"><img src="img/PICTURE1.png" height="145px" style="margin-top: -45px"></a>
  					</div>
 					<div class="navbar-collapse collapse ">
 						<ul class="nav navbar-nav">
@@ -36,7 +36,12 @@
 
 							</li>
 							<li><a href="aboutus.php" style="color: white">About Us</a></li>
+							<div id="google_translate_element"></div><script type="text/javascript">
+										function googleTranslateElementInit() {
+	  									new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,en,es,id,ja,ru,th,tl,vi,zh-CN', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element'); }
+							</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 						</ul>
+
 					</div>
 				</div>
 			</div>
