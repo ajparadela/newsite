@@ -19,7 +19,7 @@ include "includes/navigation.php";
                         <div id="main-slider" class="main-slider flexslider">
                             <ul class="slides">
                                 <li>
-                                    <img src="propertyimg\1\16.jpg" alt="" />
+                                    <img src="propertyimg\1\16.jpg" alt="No Image To Show" />
                                     <div class="flex-caption">
                                         <h3>House for Sale</h3>
                                         <p>Newcastle City Center United Kingdom</p>
@@ -102,19 +102,19 @@ include "includes/navigation.php";
     <tr>
         <td width="50%" align="center">Storeys :
         </td>
-        <td width="50%" align="center">1
+        <td width="50%" align="center">2
         </td>
     </tr>
     <tr>
         <td width="50%" align="center">Number of Room :
         </td>
-        <td width="50%" align="center">1
+        <td width="50%" align="center">4
         </td>
     </tr>
     <tr>
         <td width="50%" align="center">Number of Bathroom :
         </td>
-        <td width="50%" align="center">1
+        <td width="50%" align="center">3
         </td>
     </tr>
     <tr>
@@ -156,25 +156,25 @@ include "includes/navigation.php";
                         <div id="main-slider" class="main-slider flexslider">
                             <ul class="slides">
                                 <li>
-                                    <img src="propertyimg\1\1.jpg" alt="" />
+                                    <img src="propertyimg\1\1.jpg" alt="No Image To Show" />
                                 </li>
                                 <li>
-                                    <img src="propertyimg\1\2.jpg" alt="" />
+                                    <img src="propertyimg\1\2.jpg" alt="No Image To Show" />
                                 </li>
                                 <li>
-                                    <img src="propertyimg\1\3.jpg" alt="" />
+                                    <img src="propertyimg\1\3.jpg" alt="No Image To Show" />
                                 </li>
                                 <li>
-                                    <img src="propertyimg\1\0.jpg" alt="" />
+                                    <img src="propertyimg\1\4.jpg" alt="No Image To Show" />
                                 </li>
                                 <li>
-                                    <img src="propertyimg\1\9.jpg" alt="" />
+                                    <img src="propertyimg\1\9.jpg" alt="No Image To Show" />
                                 </li>
                                 <li>
-                                    <img src="propertyimg\1\8.jpg" alt="" />
+                                    <img src="propertyimg\1\8.jpg" alt="No Image To Show" />
                                 </li>
                                 <li>
-                                    <img src="propertyimg\1\7.jpg" alt="" />
+                                    <img src="propertyimg\1\7.jpg" alt="No Image To Show" />
                                 </li>
                             </ul>
                         </div>

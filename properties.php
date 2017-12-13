@@ -32,12 +32,12 @@ include "includes/navigation.php";
 <br>
 <table align="center" width="80%" border="0">
         <tr>       
-            <td width="40%" height="7%" align="center"><br><br><img src="" ><br><br></td>
+            <td width="40%" height="7%" align="center"><br><br><a href="pp3.php"><img src="" alt="No Image To Show" ></a><br><br></td>
             <td width="60%" align="left">
                 <br><b>APARTMENT FOR SALE</b>
-                <br>Location : United Kingdom, London
+                <br>Location : United Kingdom, London   
                 <br>Price : £550,000 / ₱35,000,000 <br><br>
-            <input type="button" align="center" value="View Details"></input></td></td>
+            <a href="pp3.php"><input type="button" align="center" value="View Details"></a></input></td></td>
         </tr>
 </table>
 <br>

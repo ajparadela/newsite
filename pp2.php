@@ -5,7 +5,7 @@ include "includes/navigation.php";
 <head>
     <body>
 
-<h1><center>HOUSE FOR SALE</center></h1>
+<h1><center>APARTMENT FOR SALE</center></h1>
 
                 <section id="featured" class="bg">
             <!-- start slider -->
@@ -19,10 +19,10 @@ include "includes/navigation.php";
                         <div id="main-slider" class="main-slider flexslider">
                             <ul class="slides">
                                 <li>
-                                    <img src="propertyimg\1\16.jpg" alt="" />
+                                    <img src="propertyimg\2\1.jpg" alt="No Image To Show" />
                                     <div class="flex-caption">
-                                        <h3>House for Sale</h3>
-                                        <p>Newcastle City Center United Kingdom</p>
+                                        <h3>Aparment for Sale</h3>
+                                        <p>East Acton Zone 2 London United Kingdom</p>
                                     </div>
                                 </li>
                             </ul>
@@ -36,7 +36,7 @@ include "includes/navigation.php";
         </section>
   
 <br><hr width="80%">
-<table align="center" width="80%" border="1">
+<table align="center" width="70%" border="1">
     <tr>
         <td width="50%" align="center">Property Name :
         </td>
@@ -54,13 +54,14 @@ include "includes/navigation.php";
     <tr>
         <td width="50%" align="center">Price :
         </td>
-        <td width="50%" align="center">£465,000 / ₱29,700,000 
+
+        <td width="50%" align="center">£465,000 / ₱29,700,000
         </td>
     </tr>
     <tr>
         <td width="50%" align="center">Location :
         </td>
-        <td width="50%" align="center">East Acton Zone 2 London, United Kingdom
+        <td width="50%" align="center">East Acton Zone 2 London United Kingdom
         </td>
     </tr>
 
@@ -84,7 +85,7 @@ include "includes/navigation.php";
     <tr>
         <td width="50%" align="center">Floor Size :
         </td>
-        <td width="50%" align="center">103.3 SQM
+        <td width="50%" align="center">60 SQM
         </td>
     </tr>
 
@@ -152,25 +153,25 @@ include "includes/navigation.php";
                         <div id="main-slider" class="main-slider flexslider">
                             <ul class="slides">
                                 <li>
-                                    <img src="propertyimg\1\1.jpg" alt="" />
+                                    <img src="propertyimg\2\2.jpg" alt="No Image To Show" />
                                 </li>
                                 <li>
-                                    <img src="propertyimg\1\2.jpg" alt="" />
+                                    <img src="propertyimg\2\3.jpg" alt="No Image To Show" />
                                 </li>
                                 <li>
-                                    <img src="propertyimg\1\3.jpg" alt="" />
+                                    <img src="propertyimg\2\4.jpg" alt="No Image To Show" />
                                 </li>
                                 <li>
-                                    <img src="propertyimg\1\0.jpg" alt="" />
+                                    <img src="propertyimg\2\5.jpg" alt="No Image To Show" />
                                 </li>
                                 <li>
-                                    <img src="propertyimg\1\9.jpg" alt="" />
+                                    <img src="propertyimg\2\6.jpg" alt="No Image To Show" />
                                 </li>
                                 <li>
-                                    <img src="propertyimg\1\8.jpg" alt="" />
+                                    <img src="propertyimg\2\7.jpg" alt="No Image To Show" />
                                 </li>
                                 <li>
-                                    <img src="propertyimg\1\7.jpg" alt="" />
+                                    <img src="propertyimg\2\8.jpg" alt="No Image To Show" />
                                 </li>
                             </ul>
                         </div>
@@ -184,128 +185,6 @@ include "includes/navigation.php";
 
 </body>
 </head>
-<?php
-include "includes/footer.php";
- ?>
-
-<?php 
-include "includes/header.php";
-include "includes/navigation.php";
-?>
-
-<h1><center>HOUSE FOR SALE</center></h1>
-<table align="center" width="80%" >
-    <tr align="center">
-        <td><img src="propertyimg\2\1.jpg" width="80%" height="12.5%">
-        </td>
-    </tr>
-</table>
-<br><hr width="80%">
-
-<br><hr width="80%">
-
-
-<br><hr width="80%">
-
-<table align="center" width="60%" border="1">
-    <tr>
-        <td width="50%" align="center">Floor Size :
-        </td>
-        <td width="50%" align="center">60 SQM
-        </td>
-    </tr>
-
-    <tr>
-        <td width="50%" align="center">Lot Size :
-        </td>
-        <td width="50%" align="center">N/A
-        </td>
-    </tr>
-
-    <tr>
-        <td width="50%" align="center">Storeys :
-        </td>
-        <td width="50%" align="center">2
-        </td>
-    </tr>
-    <tr>
-        <td width="50%" align="center">Number of Room :
-        </td>
-        <td width="50%" align="center">4
-        </td>
-    </tr>
-    <tr>
-        <td width="50%" align="center">Number of Bathroom :
-        </td>
-        <td width="50%" align="center">2
-        </td>
-    </tr>
-    <tr>
-        <td width="50%" align="center">Garage :
-        </td>
-        <td width="50%" align="center">0
-        </td>
-    </tr>
-
-
-</table>
-
-
-
-
-<br><hr width="80%">
-
-<div class="row" align="center">
-<div class="col-sm-12 padding-top-15" align="center">
-     <label>Gallery</i></small></label>
-                                                 
-        <ul>
-            <div class="col-sm-1">
-            </div>
-            <div class="col-sm-3">
-                <a href="propertyimg\2\2.jpg">
-                <img src="propertyimg\2\2.jpg" style="width:100%">
-            </div>
-            <div class="col-sm-3">
-                <a href="propertyimg\2\3.jpg">
-                <img src="propertyimg\2\3.jpg" style="width:100%">
-            </div>
-            <div class="col-sm-3">
-                <a href="propertyimg\2\4.jpg">
-                <img src="propertyimg\2\4.jpg" style="width:100%">
-            </div>
-            <div class="col-sm-1">
-            </div>
-
-        </ul>
-</div>
-</div>
-
-<div class="row" align="center">
-<div class="col-sm-12 padding-top-15" align="center">
-                                                 
-        <ul>
-            <div class="col-sm-1">
-            </div>
-            <div class="col-sm-3">
-                <a href="propertyimg\2\5.jpg">
-                <img src="propertyimg\2\5.jpg" style="width:100%">
-            </div>
-            <div class="col-sm-3">
-                <a href="propertyimg\2\6.jpg">
-                <img src="propertyimg\2\6.jpg" style="width:100%">
-            </div>
-            <div class="col-sm-3">
-                <a href="propertyimg\2\7.jpg">
-                <img src="propertyimg\2\7.jpg" style="width:100%">
-            </div>
-            <div class="col-sm-1">
-            </div>
-
-        </ul>
-</div>
-</div>
-
 <?php
 include "includes/footer.php";
  ?>

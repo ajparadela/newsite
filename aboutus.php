@@ -6,12 +6,12 @@ include "includes/navigation.php";
 <table align="center" width="70%">
     <tr>
     <td align="center">
-    <h1>About Us.</h1>
     </td>
     </tr>
 
     <tr>
-    <td align="center">
+    <td align="center"><br><br>
+    <img src="img/25359778_1605051952917173_62199300_n.png">
     <h2>OFC Investment & Property Management</h2><br>   
 
     OFC highlights the property investment opportunities and provide excellent ROI returns to our clients.<br><br>
@@ -34,7 +34,7 @@ include "includes/navigation.php";
 
 <table align="center">
 <tr align="center">
-    <td><h2><b>Our Property Agency</b></h2>
+    <td><h2><b>Our List Property Agency</b></h2>
     </td>
 </tr>
 <tr align="center">
