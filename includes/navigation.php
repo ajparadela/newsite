@@ -36,10 +36,7 @@
 
 							</li>
 							<li><a href="aboutus.php" style="color: white">About Us</a></li>
-							<div id="google_translate_element"></div><script type="text/javascript">
-										function googleTranslateElementInit() {
-	  									new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,en,es,id,ja,ru,th,tl,vi,zh-CN', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element'); }
-							</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+							
 						</ul>
 
 					</div>
