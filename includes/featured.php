@@ -29,7 +29,7 @@
 							<div class="col-sm-4 col-md-4 col-lg-4">
 								<div class="box">
 									<div class="aligncenter">
-										<a href="properties.php">
+										<a href="#">
 										<div class="icon">
 											<i class="fa fa-building-o fa-5x"></i>
 										</div>

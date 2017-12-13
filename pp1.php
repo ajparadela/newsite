@@ -36,31 +36,27 @@ include "includes/navigation.php";
         </section>
   
 <br><hr width="80%">
-<table align="center" width="70%" border="1">
+<table align="center" width="80%" border="1">
     <tr>
-        <td width="50%" align="center">Property Name :
-        </td>
-        <td width="50%" align="center">
+        <td width="50%" align="center">&nbsp;<b>Property Name<b></td>
+        <td align="center">
         </td>
     </tr>
 
     <tr>
-        <td width="50%" align="center">Property Type :
-        </td>
-        <td width="50%" align="center">House and Lot
+        <td width="50%" align="center"><img src="img/h.png" width="18px" height="18px"><b>&nbsp;Property Type</b></td>
+        <td align="center"> House and Lot
         </td>
     </tr>
 
     <tr>
-        <td width="50%" align="center">Price :
-        </td>
-        <td width="50%" align="center">£300,000 / ₱19,200,000
+        <td width="50%" align="center"><img src="img/money.png" width="18px" height="18px"><b>&nbsp;Price</b></td>
+        <td align="center"> £300,000 / ₱19,200,000
         </td>
     </tr>
     <tr>
-        <td width="50%" align="center">Location :
-        </td>
-        <td width="50%" align="center">Newcastle City Center United Kingdom
+        <td width="50%" align="center"><img src="img/loc.png" width="18px" height="18px"><b>&nbsp;Location</b></td>
+        <td align="center">Newcastle City Center United Kingdom
         </td>
     </tr>
 
@@ -84,57 +80,34 @@ include "includes/navigation.php";
 </table>
 <br><hr width="80%">
 
-<table align="center" width="60%" border="1">
-    <tr>
-        <td width="50%" align="center">Floor Size :
-        </td>
-        <td width="50%" align="center">103.3 SQM
-        </td>
+<table width="90%" border="1" align="center">
+    <tr align="center">
+        <td width="33.33%"><b>Floor Size</b></td>
+        <td width="33.33%"><b>Lot Size</b></td>
+        <td width="33.33%"><b>Storeys</b></td>
     </tr>
+    <tr align="center">
+        <td width="33.33%">103.3 SQM</td>
+        <td width="33.33%">N/A</td>
+        <td width="33.33%">2</td>
+    </tr>
+</table>
 
-    <tr>
-        <td width="50%" align="center">Lot Size :
-        </td>
-        <td width="50%" align="center">N/A
-        </td>
+<table width="90%" border="1" align="center">
+    <tr align="center">
+        <td width="33.33%"><b>Number of Room</b></td>
+        <td width="33.33%"><b>Number of Bath</b></td>
+        <td width="33.33%"><b>Garage</b></td>
     </tr>
-
-    <tr>
-        <td width="50%" align="center">Storeys :
-        </td>
-        <td width="50%" align="center">2
-        </td>
+    <tr align="center">
+        <td width="33.33%"><img src="img/bed.png" width="18px" height="20px">&nbsp;4</td>
+        <td width="33.33%"><img src="img/bath.png" width="18px" height="20px">&nbsp;3</td>
+        <td width="33.33%"><img src="img/car.png" width="18px" height="20px">&nbsp;0</td>
     </tr>
-    <tr>
-        <td width="50%" align="center">Number of Room :
-        </td>
-        <td width="50%" align="center">4
-        </td>
-    </tr>
-    <tr>
-        <td width="50%" align="center">Number of Bathroom :
-        </td>
-        <td width="50%" align="center">3
-        </td>
-    </tr>
-    <tr>
-        <td width="50%" align="center">Garage :
-        </td>
-        <td width="50%" align="center">None
-        </td>
-    </tr>
-
-
 </table>
 
 
-
-
 <br><hr width="80%">
-
-
-
-
 
 
 <div class="row" align="center">

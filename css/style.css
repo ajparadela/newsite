@@ -340,7 +340,7 @@ header .navbar-default .navbar-nav>.open>a, header .navbar-default .navbar-nav>.
 }
 header .navbar {
 	min-height: 105px;
-	background: #eafaf1;
+	background: #3b5998;
 }
 header .navbar-nav>li {
 	padding-bottom: 30px;
@@ -1635,7 +1635,7 @@ ul.time-post li.time {
 ================================ */
 
 footer {
-	background: #eafaf1;
+	background: #3b5998;
 }
 #sub-footer {
 	border-top: 1px solid #ddd;
