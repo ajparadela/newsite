@@ -5,84 +5,271 @@ include "includes/navigation.php";
 
 <table align="center" width="70%">
     <tr>
-    <td align="center">
+    <td width="60%">
+    <h2 style="color: #1f497d" align="center"><br><br>Guide to the Selling Process of Real Estate Properties in the Philippines</h2><br>   
     </td>
-    </tr>
-
-    <tr>
-    <td align="center"><br><br>
-    <img src="img/picture2.png" width="300px" height="200px">
-    <h2 style="color: #1f497d">OFC Investment & Property Management</h2><br>   
-
-    OFC highlights the property investment opportunities and provide excellent ROI returns to our clients.<br><br>
-
-    OFC investment is a property management, sales and investment lettings expert, with our own estate agents partner companies with over fifty staff members working worldwide in China, Hong Kong, Phillipines, United Kingdom.<br><br>
-
-    We help clients buy, invest, let or sell anywhere in the world.<br><br>
-
-    OFC has an excellent range of properties to suit all budget and location requirements. Contact us to be the first to hear about new properties to the market.<br><br>
-
-    Whether you want an apartment in the heart of China or Hong Kong, a well located shared student house in London or New Castle, or a property with land in the cities of the Metro Manila, OFC is the best option to find the right investment, home or commercial property for you.<br><br>
-
-    Experts in properties and investment portfolios of all sizes, we let and manage everything from studio apartments to full apartment blocks.<br><br>
-    </td>
-    </tr>
-
-    
-    
-</table>
-
-<table align="center">
-<tr align="center">
-    <td align="center" width="50%"><h2 style="color: #1f497d"><b>List of Property Agency</b></h2>
-    </td>
-</tr>
-<tr align="left">
-<td>
-    •Sunny & Wong (United Kingdom)<br>
-    •Shinjustar Property Development (PH)<br>
-    </td>
-</tr>
-</table>
-<br><hr width="80%">
-
-<table width="80%" align="center" >
-    <tr>
-        <td width="30%" align="left"><center><h3 style="color: #1f497d">Why Us?</h3><br>
-        <img src="img/businessmen.png" height="100px" width="100px"></td></center>  
-        <td width="70%" align="left" style="padding-left: 20px">
-            &nbsp;&nbsp;&nbsp;Working together and sharing our expertise and experience is our approach to achieving suc-cess. From the initial discussions, to the ongoing process of the project we can be trusted and are transparent. This is why you can feel safe and secure when dealing with our team at Raeon Inter-national.<br><br>
-
-            &nbsp;&nbsp;&nbsp;We deliver a down to earth service with real caring people who get the job done. Purchasers can be assured they are dealing with trained and qualified consultants. Developers can feel secure they have a trusted and respectful agency working with them.</td>
     </tr>
 </table>
-<br><br>
-
-<table width="80%" align="center">
+<table align="center" width="60%">
     <tr>
-        <td align="center"><h2 style="color: #1f497d">Most Reliable Overseas Property Real Estate Agents</h2></td>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The selling process of real estate property in the Philippines could be a nightmare at first glance. Considering the voluminous paper work required from owners and the numerous trips to government offices you would have endure, it could be intimidating. However, you just need to familiarize yourself with the procedures and the legal documents you must need to prepare in order to reap the benefits of investing in real estate.</td>
     </tr>
     <tr>
-    <td align="left" width="100%">&nbsp;&nbsp;&nbsp;With many years of experience providing property in Australia for sale to Hong Kong investors, we are the experts in the Sydney and Melbourne real estate market.<br><br>
-
-   &nbsp;&nbsp;&nbsp;OFC Investment strives towards providing the best possible service to you. We have a team of dedicated professionals to service all our clients whether they are buying, selling or developing.<br><br>
-
-    &nbsp;&nbsp;&nbsp;We firmly believe in ensuring peace of mind and helping you achieve your goals so we can continue to build and strengthen our relationship with you.<br><br>
-
-    &nbsp;&nbsp;&nbsp;Our care and dedication to our clients has earned Raeon International an excellent reputation. We are an internationally recognised company that offers a complete and comprehensive service in real estate. We have several offices in Asia with our head office based in Hong Kong.<br><br>
-
-    &nbsp;&nbsp;&nbsp;Due to our work ethic and professionalism our project sales teams have achieved stunning results from, delivering premium Sydney and Melbourne properties for sale to clients all across Hong Kong. As part of our integrated service for investors, we also manage their properties to ensure they are achieving a great return while giving them peace of mind that their asset is kept safe and maintained. We work closely with experienced legal and financial consultants who are fully licensed so are able to assist clients in any property matters.<br><br>
-
-    &nbsp;&nbsp;&nbsp;For developers, we aim to deliver a unique experience with a trusted and transparent approach so all parties are comfortable. We see projects through from start to finish, providing expert management every step of the way. We offer a full comprehensive service - from the pre-release sales and marketing strategy, to the project release, the pre-settlement strategy up until when the very last property is sold and settled.
-
-    &nbsp;&nbsp;&nbsp;If you have any matters we can assist with, please do not hesitate to contact us.</td>
+        <td align="center"><br><h3>Allow us to guide you with a step by step means of successfully selling and transferring ownership of real estate properties in the country.</h3></td>
     </tr>
 </table>
 <br><hr width="80%">
 
+<table align="center" width="85%" style="background: #eaf2f8">
+    <tr>
+        <td>
+            <b><img src="img/sign.png" height="50px" width="50px">&nbsp;&nbsp;&nbsp;1. Owner and Broker will Sign a Contract of Agreement </b>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-left: 10px; padding-right: 10px">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The seller and real estate agent will discuss and agree on the terms of the sale, the professional fee or the commission. At this stage, the broker must also scrutinize the existing documents of the owner in order to check the status of the property. The scrutiny of the documents entails the condition of the land title if it is free from loans, liens and encumbrances.
+        </td>
+    </tr>
+</table>
+<hr width="80%">
 
+<table align="center" width="85%">
+    <tr>
+        <td>
+            <b><img src="img/sell.png" height="50px" width="50px">&nbsp;&nbsp;&nbsp;2. Owner should issue an Authority to Sell</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-left: 10px; padding-right: 10px">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This contract will stipulate whether the owner will bestow upon the broker exclusive rights to sell or a non-exclusive authorization to sell his or her property. This agreement will legally bind the broker as an agent of the owner providing for the amount of commission and the pertinent information of the property to be sold. This document will also serve as proof that the broker was legally authorized to represent the owner in selling the property.<br><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The broker usually get hold of the necessary documents prior to marketing the property to make sure that it is free from encumbrances. An encumbrance means that someone else has a right to, interest in, or legal liability on real property that either prohibits the passing of title to the property or which would diminish its value. The owner must also provide for an authority letter to transact addressed to the selling broker so the latter could get certified true copies of the Title, Tax Declaration and Tax Clearance. 
+        </td>
+    </tr>
+</table>
+<hr width="80%">
 
+<table align="center" width="85%" style="background: #eaf2f8">
+    <tr>
+        <td>
+            <b><img src="img/eye.png" height="50px" width="50px">&nbsp;&nbsp;&nbsp;3. Ocular by Real Estate Broker</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-left: 10px; padding-right: 10px">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The broker must be able to check the property in order to make an assessment of its current market value. The appraisal of the market value of the property is necessary in determining the actual current price of the property. Many factors must be taken into account in determining the value of the asset such as the location and area.
+        </td>
+    </tr>
+</table>
+<hr width="80%">
 
+<table align="center" width="85%">
+    <tr>
+        <td>
+            <b><img src="img/house.png" height="50px" width="50px">&nbsp;&nbsp;&nbsp;4. Broker will market and offer the property</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-left: 10px; padding-right: 10px">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The owner and the broker must agree on how to market the property, limitations such as privacy when it comes to releasing photos and disclosing the location of the property online must be considered. Moreover, both parties must decide on how to split the marketing costs such as the transportation and communication expenses. Although, the common practice nowadays is that the broker will shoulder the expenses depending on the amount of his or her commission.
+        </td>
+    </tr>
+</table>
+<hr width="80%">
+
+<table align="center" width="85%" style="background: #eaf2f8">
+    <tr>
+        <td>
+            <b><img src="img/search.png" height="50px" width="50px">&nbsp;&nbsp;&nbsp;5. Property Viewing</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-left: 10px; padding-right: 10px">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Once prospective buyers get in touch with the broker, viewings of the property will be scheduled. Make the property presentable to add value to your property.
+        </td>
+    </tr>
+</table>
+<hr width="80%">
+
+<table align="center" width="85%">
+    <tr>
+        <td>
+            <b><img src="img/mail.png" height="50px" width="50px">&nbsp;&nbsp;&nbsp;6. Letter of Intent or Offer to Buy</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-left: 10px; padding-right: 10px">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Letter of Intent is a legal writing offered by the buyer to the owner of the property to declare his or her intention to purchase. This is usually set the first stage in documenting a sale of real property. The letter of intent is a non-binding document which provides for the key transaction agreements such as the price, amount of deposit, length of due diligence period (a stipulated time for a buyer to investigate the property to ensure that they are satisfied before finalizing the purchase) , treatment of financing (period of amortization or loan) and other pertinent terms.
+        </td>
+    </tr>
+</table>
+<hr width="80%">
+
+<table align="center" width="85%" style="background: #eaf2f8">
+    <tr>
+        <td>
+            <b><img src="img/sign.png" height="50px" width="50px">&nbsp;&nbsp;&nbsp;7. Acceptance of Owner</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-left: 10px; padding-right: 10px">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Once the owner has signed the Letter of Intent, this will signify the acceptance of the terms given by the buyer. The seller is bound to promise not to offer the property to other buyers as long as the purchaser does not breach the conditions provided in the letter.
+        </td>
+    </tr>
+</table>
+<hr width="80%">
+
+<table align="center" width="85%">
+    <tr>
+        <td>
+            <b><img src="img/money.png" height="50px" width="50px">&nbsp;&nbsp;&nbsp;8. Earnest Money</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-left: 10px; padding-right: 10px">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is the amount of money given by the home buyer while seeking or applying for financing in order to pay the remaining balance. The earnest money is provided to hold the property subject to the due diligence of the buyer and can be forfeited once there is default on his or her part. The money can also be refundable subject to deductions depending on the agreement between the parties.
+        </td>
+    </tr>
+</table>
+<hr width="80%">
+
+<table align="center" width="85%" style="background: #eaf2f8">
+    <tr>
+        <td>
+            <b><img src="img/contract.png" height="50px" width="50px">&nbsp;&nbsp;&nbsp;9. Legal Documents</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-left: 10px; padding-right: 10px">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At this point or even earlier, the seller and the broker must be able to secure the necessary documents in preparation of the transfer of ownership to the buyer as the latter prepares to fulfill the payment of the property.<br><br>
+            Here is a list of documents that the owners or brokers must obtain from the <b>Register of Deeds</b> (you may check with your local ROD if you can avail of the Electronic Land Title) to finalize the transfer of ownership to the new owner:<br>
+                •Certified True Copy of Transfer Certificate of Title ( Land )<br>
+                •Certified True Copy of Condominium Certificate of Title ( Unit )<br>
+                •Certified True Copy of Condominium ( Parking – if applicable )<br><br>
+
+            Documents to be procured by owners or brokers from the <B>Assessor’s Office</B><br>
+                •Certified True Copy of Tax Declaration ( Land )<br>
+                •Certified True Copy of Tax Declaration ( Improvement / Building )<br>
+                •Certified True Copy of Tax Declaration ( Condominium )<br>
+                •Certified True Copy of Tax Declaration ( Condominium parking, if applicable )<br>
+                •Real Estate Tax Clearance for Current Year<br>
+                •Certificate of Non-Improvement if property is bare and without structures such as a house or a building<br><br>
+
+            The <b>Property Owner</b> must also secure the following:<br>
+                •Certificate Authorizing Registration from the Bureau of Internal Revenue (BIR)<br>
+                •Original Real Estate Tax Receipts – Current Year<br>
+                •Lot Plan / Subdivision Plan<br>
+
+        </td>
+    </tr>
+</table>
+<hr width="80%">
+
+<table align="center" width="85%">
+    <tr>
+        <td>
+            <b><img src="img/deed.png" height="50px" width="50px">&nbsp;&nbsp;&nbsp;10. Prepare the Deed of Sale</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-left: 10px; padding-right: 10px">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Once the price is fully paid, a Deed of Absolute Sale will be signed whereby the seller relinquishes or transfers ownership of the property to the buyer. When signed by both parties, the buyer is considered to be the absolute owner of the property.
+        </td>
+    </tr>
+</table>
+<hr width="80%">
+
+<table align="center" width="85%" style="background: #eaf2f8">
+    <tr>
+        <td>
+            <b><img src="img/money.png" height="50px" width="50px">&nbsp;&nbsp;&nbsp;11. Payment of expenses for both Seller and Buyer </b>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-left: 10px; padding-right: 10px">
+            •Capital Gains Tax / Creditable Withholding Tax ( whichever applies )<br>
+            •Documentary Stamps Tax<br>
+            •Transfer Tax<br>
+            •Registration Fees<br>
+        </td>
+    </tr>
+</table>
+<hr width="80%">
+
+<table align="center" width="85%">
+    <tr>
+        <td>
+            <b><img src="img/hand.png" height="50px" width="50px">&nbsp;&nbsp;&nbsp;12. Mutually agreed and signed Deed of Absolute Sale</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-left: 10px; padding-right: 10px">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Once prospective buyers get in touch with the broker, viewings of the property will be scheduled. Make the property presentable to add value to your property.
+        </td>
+    </tr>
+</table>
+<hr width="80%">
+
+<table align="center" width="85%" style="background: #eaf2f8">
+    <tr>
+        <td>
+            <b><img src="img/contract.png" height="50px" width="50px">&nbsp;&nbsp;&nbsp;13. Have the Deed of Absolute Sale Notarized</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-left: 10px; padding-right: 10px">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After having the deed of sale signed by both parties, the document must be notarized to protect the document from fraud. Once a document has been notarized, it will become a public document and would be binding to third persons. This means that if anyone wishes to prove a right of ownership on the property, he or she must be able to prove that they have a right even before the execution of such document. Notarization will protect the buyer from fraud and possible unfounded claims by third persons in the future.
+        </td>
+    </tr>
+</table>
+<hr width="80%">
+
+<table align="center" width="85%" >
+    <tr>
+        <td>
+            <b><img src="img/house.png" height="50px" width="50px">&nbsp;&nbsp;&nbsp;14. Seller must turn over the ORIGINAL copies of the following:</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-left: 10px; padding-right: 10px">
+            •Transfer of Certificate of Title – ( land ) – Owner Copy<br>
+            •Condominium Certificate of Title ( condominium )<br>
+            •Tax Declaration ( Declaration of Real Property )<br>
+            •Tax Clearance – ( both land and improvement  )<br>
+            •Tax Clearance – ( condominium unit and parking if applicable )<br>
+        </td>
+    </tr>
+</table>
+<hr width="80%">
+
+<table align="center" width="85%" style="background: #eaf2f8">
+    <tr>
+        <td>
+            <b><img src="img/oath.png" height="50px" width="50px">&nbsp;&nbsp;&nbsp;15. The buyer must obtain a new tax declaration</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-left: 10px; padding-right: 10px">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After releasing the Transfer Certificate of Title / Condominium Certificate of Title under the Buyer’s name, a certified true copy of the new Title and a photo of the property are needed to process the new Tax Declaration in name of new Owner.
+        </td>
+    </tr>
+</table>
+<hr width="80%">
+
+<table align="center" width="85%">
+    <tr>
+        <td>
+            <b><img src="img/guide.png" height="50px" width="50px">&nbsp;&nbsp;&nbsp;16. Issurance of New Tax Declaration</b>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-left: 10px; padding-right: 10px">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considered to be the last step since transfer of ownership rights includes the transfer of the obligation to pay property taxes. Once a new tax declaration has been released under the name of the new owner, the full obligation of the former owner is terminated.<br><br>
+            The process can be confusing most specially to first-time property buyers or sellers but it is necessary to be familiar and vigilant even to the smallest detail. Handling and transferring the ownership of a real property requires extraordinary diligence because it could be extremely costly.
+        </td>
+    </tr>
+</table>
+<hr width="80%">
 
 <?php
 include "includes/footer.php";

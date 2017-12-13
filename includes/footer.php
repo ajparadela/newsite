@@ -19,7 +19,7 @@
 						<h4 style="color: white">Quick Links</h4>
 							<ul class="link-list">
 								<li><a href="index.php" style="color: white">Home</a></li>
-								<li class="dropdown active" style="color: white">
+								<li class="dropdown" style="color: white">
 								<a href="#" class="dropdown-toggle " data-toggle="dropdown" data-delay="0" data-close-others="false" style="color: white">Projects &nbsp;<i class="fa fa-angle-down"></i></a>
 									<ul class="dropdown-menu">
 										<li><a href="propertiesUK.php">Properties in UK</a></li>
@@ -28,8 +28,15 @@
 									</ul>
 								</li>
 								<li><a href="services.php" style="color: white">Services</a></li>
+								<li class="dropdown active" style="color: white">
+								<a href="#" class="dropdown-toggle " data-toggle="dropdown" data-delay="0" data-close-others="false" style="color: white">Guide &nbsp;<i class="fa fa-angle-down"></i></a>
+								<ul class="dropdown-menu">
+									<li><a href="guideph.php">Clients Information Guide</a></li>
+									<li><a href="contactus.php">Contact Us</a></li>
+								</ul>
+
+							</li>
 								<li><a href="aboutus.php" style="color: white">About Us</a></li>
-								<li><a href="contactus.php" style="color: white">Contact Us</a></li>
 							</ul>
 							
 						</div>
