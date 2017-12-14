@@ -23,11 +23,11 @@
 							<li><a href="index.php" style="color: white">Home</a></li>
 							<li><a href="services.php" style="color: white">Services</a></li>
 							<li class="dropdown active" style="color: white">
-								<a href="#" class="dropdown-toggle " data-toggle="dropdown" data-delay="0" data-close-others="false" style="color: white">Projects &nbsp;<i class="fa fa-angle-down"></i></a>
+								<a href="#" class="dropdown-toggle " data-toggle="dropdown" data-delay="0" data-close-others="false" style="color: white">Properties &nbsp;<i class="fa fa-angle-down"></i></a>
 								<ul class="dropdown-menu">
-									<li><a href="propertiesUK.php">Properties in UK</a></li>
-									<li><a href="propertiesPH.php">Properties in PH</a></li>
-									<li><a href="propertiesHK.php">Properties in HK</a></li>
+									<li><a href="propertiesUK.php">Properties in United Kingdom</a></li>
+									<li><a href="propertiesPH.php">Properties in Philippines</a></li>
+									<li><a href="propertiesHK.php">Properties in Hong Kong</a></li>
 								</ul>
 
 							</li>
